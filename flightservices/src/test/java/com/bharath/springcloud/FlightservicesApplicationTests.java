@@ -8,6 +8,7 @@ class FlightservicesApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// test the initial setup of the project
 	}
 
 }
