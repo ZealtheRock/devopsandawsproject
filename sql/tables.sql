@@ -1,5 +1,5 @@
 use mydb;
-
+-- Another Table Keeping this line just for comment
 create table product(
 id int AUTO_INCREMENT PRIMARY KEY,
 name varchar(20),
